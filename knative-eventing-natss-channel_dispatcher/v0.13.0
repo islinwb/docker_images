@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/knative.dev/eventing-contrib/natss/cmd/channel_dispatcher@sha256:9e4c6e6085b7a1da89bdda5d094e9610d4672728e2f835ec9d27f732886c96a1
